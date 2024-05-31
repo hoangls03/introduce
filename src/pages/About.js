@@ -13,7 +13,6 @@ export const About = () => {
   return (
     <div>
       <h1>Welcome to the About page</h1>
-      <NavBar />
       <p> Home page has been viewed {count} times </p>
     </div>
     

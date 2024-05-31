@@ -20,7 +20,6 @@ export const Home = () => {
   return (
     <div>
         <h1>Welcome to the Home page</h1>
-        <NavBar />
         <p> Banner Id: B00911889 </p>
         <p> Name: Hoang Le</p>
     </div>

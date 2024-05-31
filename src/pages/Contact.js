@@ -13,7 +13,6 @@ export const Contact = () => {
   return (
     <div>
       <h1>Welcome to the Contact page</h1>
-      <NavBar />
       <p> Home page has been viewed {count} times </p>
     </div>
     
