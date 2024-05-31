@@ -7,7 +7,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 export const AppRoutes = () => {
   return (
         <Routes>
-            <Route path="/" element={<Home/>}/>
+            <Route path="/" element={<Contact/>}/>
             <Route path='/Home' element = {<Home/>}/>
             <Route path="/About" element={<About/>}/>
             <Route path='/Contact' element={<Contact/>}/>
